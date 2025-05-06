@@ -32,7 +32,7 @@ The architecture of the WAF is composed of the following components:
 
  **Clone the Repository**:
    ```sh
-  git clone
+  git clone https://github.com/ADITYATALUJA2179/Web-Application-Firewall
    ```
 
 ## Usage
